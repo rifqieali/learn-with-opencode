@@ -62,7 +62,7 @@ deadline, langsung fix aja
   path absolutnya di `~/.config/opencode/opencode.json`:
 
   ```json
-  {"$schema": "https://opencode.ai/config.json", "instructions": ["/home/rifqieali/.config/opencode/rules-mentor.md"]}
+  {"$schema": "https://opencode.ai/config.json", "instructions": ["/home/YOU/.config/opencode/rules-mentor.md"]}
   ```
 
   Verifikasi dengan `opencode debug config`.

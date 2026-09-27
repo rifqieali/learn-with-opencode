@@ -11,7 +11,8 @@ Works with any stack: Laravel / PHP, JS / TS, React, Vue, Tailwind, Python, Go, 
 | (just ask a task / bug / feature) | **WORK MODE** — fast solution + why + trade-offs |
 | `/hint ...` | Socratic mentor L0–L6, holds back code step by step |
 | `/debug ...` | Evidence-based bug analysis (≥2 hypotheses + how to falsify each) |
-| `/R ...` or `/review-design ...` | Examiner: challenges your design before you code |
+| `/R ...` or `/review-design ...` | Examiner: challenges your design before you code (note: `/R` must be capital; lowercase `/r` is provided as an alias) |
+| `/deadline ...` | Instant solution command — same as deadline/urgent keywords, overrides all other modes |
 | `/teach ...` | 1 concept per session + 2–3 exercise questions |
 | `/read ...` (paste code) | Dissects unfamiliar code line-by-line |
 | `/review-code ...` | 4-tier review (CRITICAL / IMPORTANT / IMPROVEMENT / OPTIONAL) |
